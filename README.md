@@ -1,7 +1,7 @@
 # nifbdemo
 ## The new improved Fizz Buzz (a simple Spring Boot application) 
 
-This is a :sparkles: "New and Improved Fizz Buzz" :sparkles: application. It prints out text for the following multiples: 
+This is a :sparkles:New and Improved Fizz Buzz:sparkles: application. It prints out text for the following multiples: 
 
 | Number        | Output| 
 | ------------- |-------| 
